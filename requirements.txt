@@ -3,5 +3,4 @@ streamlit
 openai
 embedchain
 chromadb
-
-asdadsasdasdasdasdsada
+numpy
