@@ -1,3 +1,5 @@
 crewai 
 streamlit 
 openai
+embedchain
+chromadb
