@@ -1,5 +1,4 @@
 crewai==0.36.1
 streamlit==1.36.0
 openai==1.35.13
-pysqlite3-binary
 crewai_tools==0.4.8
